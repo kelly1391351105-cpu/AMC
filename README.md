@@ -1,6 +1,4 @@
-Of course. Here is the complete conversation in Markdown format.
-
-***
+### I exported the conversation with Gemimi:
 
 # p5.js Game Creation Conversation
 
